@@ -17,17 +17,15 @@
 |OPM(组织级项目管理)|OPM指为实现战略目标而整合项目组合、项目集和项目管理与组织驱动因素的框架。|
 
 ### 关系与区别
-1. **项目、项目集和项目组合之间的关系与区别**
-
-从组织的角度来看项目、项目集和项目组合管理：
-   - 项目集和项目管理的重点在于以“正确”的方式开展项目集和项目；
-   - 项目组合管理则注重于开展“正确”的项目集和项目。
-   
-![项目、项目集和项目组合之间的关系与区别](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/02.png)
-
-2. **项目组合、项目集和项目管理之间的关系**
+1. **项目、项目集和项目组合之间的关系**
 ![项目组合、项目集和项目管理之间的关系](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/01.png)
 
+2. **项目、项目集和项目组合之间的区别**
+![项目、项目集和项目组合之间的关系与区别](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/02.png)
+   从组织的角度来看项目、项目集和项目组合管理：
+      - 项目集和项目管理的重点在于以“正确”的方式开展项目集和项目；
+      - 项目组合管理则注重于开展“正确”的项目集和项目。
+   
 3. **战略、项目组合、项目集、项目和运营相互作用的组织环境**
 ![组织项目环境](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/03.png)
 
