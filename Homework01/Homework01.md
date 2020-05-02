@@ -37,8 +37,7 @@
  
    下图为战略、项目组合、项目集、项目和运营相互作用的组织环境： 
  
-![组织项目环境](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/03.png)
-
+![组织项目环境](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/03.png)  
 
    以上图片皆摘自《PMBOK6》中文版
 
