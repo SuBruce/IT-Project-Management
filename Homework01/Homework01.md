@@ -18,18 +18,25 @@
 
 ### 关系与区别
 1. **projects、programs和portfolio之间的关系**
+
 下图为三者之间的关系图示：
+
 ![项目组合、项目集和项目管理之间的关系](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/01.png)
 
 2. **projects、programs和portfolio之间的区别**
+
 从组织的角度来看项目、项目集和项目组合管理：
    - 项目集和项目管理的重点在于以“正确”的方式开展项目集和项目；
    - 项目组合管理则注重于开展“正确”的项目集和项目。
+
 下图为三者之间具体的比较：
+
 ![项目、项目集和项目组合之间的关系与区别](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/02.png)
   
 3. **operations以及OPM之间的关系**
+
 下图为战略、项目组合、项目集、项目和运营相互作用的组织环境：
+
 ![组织项目环境](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/03.png)
 
 以上图片皆摘自《PMBOK6》中文版
