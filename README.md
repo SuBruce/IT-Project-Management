@@ -9,4 +9,4 @@ Homework for IT Project Management
 |E-mail|642250617@qq.com|
 
 ## Content
-* [Homework01：基本概念问题](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/Homework01.md)
+* [Homework01：基本概念及其关系与区别](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/Homework01.md)
