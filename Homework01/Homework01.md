@@ -1,4 +1,4 @@
-## Homework01：基本概念
+## Homework01：基本概念及其关系与区别
 > **讨论projects、programs和portfolio之间的关系以及对企业成功的贡献；以及与operations以及OPM之间的关系。**
 > - 请先阅读《PMBOK6》中文版，第一部分的1、2、3节和第二部分的1、2节；
 > - 必须描述projects、programs、portfolio、operations和OPM的概念；
@@ -7,21 +7,23 @@
 > - 请在自己博客或Github等电子媒体发布自己的作业，不能使用doc或pdf格式；
 > - 作业提交，TA会通过调查之星等工具收集每次作业URL。
 
+
 ### 基本概念
 |概念|描述|
 |:---|:---|
-|projects(项目)|项目是为创造独特的产品、服务或成果而进行的临时性工作。|
-|programs(项目集)|项目集是一组相互关联且被协调管理的项目、子项目集和项目集活动，以便获得分别管理所无法获得的利益。|
-|portfolio(项目组合)|项目组合是指为实现战略目标而组合在一起管理的项目、项目集、子项目组合和运营工作。|
-|operations(运营管理)|运营管理关注产品的持续生产和(或)服务的持续运作。它使用最优资源满足客户要求，来保证业务运作的持续高效。|
-|OPM(组织级项目管理)|OPM指为实现战略目标而整合项目组合、项目集和项目管理与组织驱动因素的框架。|
+|projects(项目)|项目是为创造独特的产品、服务或成果而进行的临时性工作|
+|programs(项目集)|项目集是一组相互关联且被协调管理的项目、子项目集和项目集活动，以便获得分别管理所无法获得的利益|
+|portfolio(项目组合)|项目组合是指为实现战略目标而组合在一起管理的项目、项目集、子项目组合和运营工作|
+|operations(运营管理)|运营管理关注产品的持续生产和(或)服务的持续运作。它使用最优资源满足客户要求，来保证业务运作的持续高效|
+|OPM(组织级项目管理)|OPM指为实现战略目标而整合项目组合、项目集和项目管理与组织驱动因素的框架|
+
 
 ### 关系与区别
 1. **projects、programs和portfolio之间的关系**  
 
    下图为三者之间的关系图示： 
    
-![项目组合、项目集和项目管理之间的关系](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/01.png)
+   ![项目组合、项目集和项目管理之间的关系](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/01.png)
 
 2. **projects、programs和portfolio之间的区别**  
 
@@ -31,15 +33,16 @@
   
    下图为三者之间具体的比较： 
 
-![项目、项目集和项目组合之间的关系与区别](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/02.png)
+   ![项目、项目集和项目组合之间的关系与区别](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/02.png)
   
 3. **operations以及OPM之间的关系** 
  
    下图为战略、项目组合、项目集、项目和运营相互作用的组织环境： 
  
-![组织项目环境](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/03.png)  
+   ![组织项目环境](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/03.png)  
 
    以上图片皆摘自《PMBOK6》中文版
+
 
 ### 实际案例
 以《哈利·波特》系列的影视开发为例：
@@ -48,6 +51,5 @@
 |项目组合|《哈利·波特》系列影视开发|
 |项目集|《哈利·波特》1-6部以及第七部(上)(下)等|
 |项目|属于项目集(每一部)下的剧本策划、特效设计等，直接属于项目组合的后勤财务、团队运营等，可以完全独立的项目比如电影宣传等|
-|运营管理|运营管理关注产品的持续生产和(或)服务的持续运作。它使用最优资源满足客户要求，来保证业务运作的持续高效。|
-|OPM|实现战略目标而整合项目组合、项目集和项目管理与组织驱动因素的框架。|
-
+|运营管理|《哈利·波特》系列影视开发的宣发、上映等持续生产和服务的持续运作|
+|OPM|为实现《哈利·波特》系列的影视开发、优化资源分配而整合项目组合、项目集和项目管理与组织驱动因素的框架|
