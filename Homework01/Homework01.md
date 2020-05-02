@@ -18,19 +18,27 @@
 
 ### 关系与区别
 1. **projects、programs和portfolio之间的关系**  
+
    下图为三者之间的关系图示： 
-   ![项目组合、项目集和项目管理之间的关系](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/01.png)
+   
+![项目组合、项目集和项目管理之间的关系](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/01.png)
 
 2. **projects、programs和portfolio之间的区别**  
+
    从组织的角度来看项目、项目集和项目组合管理：
       - 项目集和项目管理的重点在于以“正确”的方式开展项目集和项目；
-      - 项目组合管理则注重于开展“正确”的项目集和项目。  
-   下图为三者之间具体的比较： 
-   ![项目、项目集和项目组合之间的关系与区别](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/02.png)
+      - 项目组合管理则注重于开展“正确”的项目集和项目。
   
-3. **operations以及OPM之间的关系**  
-   下图为战略、项目组合、项目集、项目和运营相互作用的组织环境：  
-   ![组织项目环境](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/03.png)
+   下图为三者之间具体的比较： 
+
+![项目、项目集和项目组合之间的关系与区别](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/02.png)
+  
+3. **operations以及OPM之间的关系** 
+ 
+   下图为战略、项目组合、项目集、项目和运营相互作用的组织环境： 
+ 
+![组织项目环境](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework01/images/03.png)
+
 
    以上图片皆摘自《PMBOK6》中文版
 
@@ -42,5 +50,5 @@
 |项目集|《哈利·波特》1-6部以及第七部(上)(下)等|
 |项目|属于项目集(每一部)下的剧本策划、特效设计等，直接属于项目组合的后勤财务、团队运营等，可以完全独立的项目比如电影宣传等|
 |运营管理|运营管理关注产品的持续生产和(或)服务的持续运作。它使用最优资源满足客户要求，来保证业务运作的持续高效。|
-|OPM|OPM指为实现战略目标而整合项目组合、项目集和项目管理与组织驱动因素的框架。|
+|OPM|实现战略目标而整合项目组合、项目集和项目管理与组织驱动因素的框架。|
 
