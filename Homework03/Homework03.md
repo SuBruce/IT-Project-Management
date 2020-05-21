@@ -6,7 +6,7 @@
 > 2. 阅读JWD案例的前期准备任务，结合创新项目实践，构建软件项目创新竞赛项目准备过程(组)，该过程(组)目标交付物为Business Case。  
 
 ### CMMI项目管理过程与知识域
-![项目过程组与知识领域](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework03/images/01.png)
+![项目过程组与知识领域](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework03/images/01.jpg)
 
 根据上图画出知识域*过程矩阵：
 
