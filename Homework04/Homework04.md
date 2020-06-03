@@ -84,7 +84,10 @@
 
 ![甘特图](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework04/images/02.png)
 
+<br/>  
 
+### 题目3
+> 召开一个项目策划研讨会，每个人用思维导图记录会议内容，该图必须满足“话题跟踪、热点标注、要点排序、问题汇总”四个基本要求。最后，给出这样会议记录的优点与缺点。
 
 
 
