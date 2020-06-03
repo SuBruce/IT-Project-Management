@@ -54,9 +54,11 @@
 |赵六|项目组成员|运维人员|负责公众号的内容策划和运维|
 
 **工作分解结构（WBS）**
+
 ![WBS](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework04/images/01.png)
 
 **甘特图**
+
 ![甘特图](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework04/images/02.png)
 
 
