@@ -9,8 +9,6 @@
 ### 题目1
 > 你联合同学做一个年级微信公众号加强各班相互了解、联合活动等。请编制项目章程和项目管理计划，指导该项目实施与运营。必须包含WBS和甘特图。  
 
-<br/>  
-
 ### 1. 项目章程  
 
 |项目章程|内容|
@@ -79,7 +77,6 @@
 
 ![WBS](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework04/images/01.png)
 
-<br/>  
 
 **甘特图**  
 > 甘特图（Gantt chart）又称为横道图、条状图；  
