@@ -13,3 +13,4 @@ Homework for IT Project Management
 * [Homework02: 分析校园项目的可行性](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework02/Homework02.md)
 * [Homework03: 研究项目管理过程与领域知识及其关系](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework03/Homework03.md)
 * [Homework04: 分析与工具](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework04/Homework04.md)
+* [Homework05: 收集需求与定义范围](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework05/Homework05.md)
