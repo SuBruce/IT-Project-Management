@@ -44,8 +44,8 @@
 ### 思维导图
 ![思维导图](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework05/images/01.png)   
 
-### WPS
-![WPS](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework05/images/02.png)   
+### WBS
+![WBS](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework05/images/02.png)   
 
 
 
