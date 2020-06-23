@@ -42,10 +42,10 @@
 > 使用思维导图，为作业1或2构建WBS，并使用项目管理工具制作WBS或根特图。并按要求检查工作包的可管理性，分解完整性。例如:检查测试、培训等。  
 
 ### 思维导图
-
+![思维导图](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework05/images/01.png)   
 
 ### WPS
-
+![WPS](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework05/images/02.png)   
 
 
 
