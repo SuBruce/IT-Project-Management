@@ -21,3 +21,8 @@
 ### (d)最短时间
 完成该项目所需的最短时间为关键路径的完成时间，即为**16天**。
 
+### 题目2：教材练习题7  
+![习题7](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/03.png)  
+
+### (a)双代号网络图  
+![习题7-双代号网络图](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/04.png)  
