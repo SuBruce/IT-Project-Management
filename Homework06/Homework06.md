@@ -28,4 +28,7 @@
 ![习题7-双代号网络图](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/04.png)  
 
 ### (b)任务进度表  
-![习题7-任务进度表](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/04.png)  
+![习题7-任务进度表](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/05.png)  
+
+### (c)甘特图  
+![习题7-甘特图](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/06.png)  
