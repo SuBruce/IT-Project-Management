@@ -25,7 +25,24 @@
 ![习题7](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/03.png)  
 
 ### (a)双代号网络图  
-![习题7-双代号网络图](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/04.png)  
+![习题7-双代号网络图](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/04.png) 
+
+关键路径：**A-D-F-G-I-K-L**，长度为**48**
+
+|任务|总时差|自由时差|
+|:---|:---|:---|
+|A|0|0|
+|B|2|2|
+|C|12|12|
+|D|0|0|
+|E|6|6|
+|F|0|0|
+|G|0|0|
+|H|2|2|
+|I|0|0|
+|J|12|12|
+|K|0|0|
+|L|0|0|
 
 ### (b)任务进度表  
 ![习题7-任务进度表](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/05.png)  
@@ -35,4 +52,6 @@
 
 ### (d)网络图  
 ![习题7-网络图](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/07.png)  
+
+
 
