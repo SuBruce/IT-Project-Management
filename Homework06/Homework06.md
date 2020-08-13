@@ -32,3 +32,7 @@
 
 ### (c)甘特图  
 ![习题7-甘特图](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/06.png)  
+
+### (d)网络图  
+![习题7-网络图](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/07.png)  
+
