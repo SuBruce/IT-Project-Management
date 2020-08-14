@@ -6,7 +6,7 @@
 ### (a)双代号网络图  
 
 ![习题6-双代号网络图](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/02.png)    
-
+<br/>
 ### (b)路径与长度  
 
 |序号|路径|长度|
