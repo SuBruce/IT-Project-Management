@@ -106,22 +106,22 @@
 
 ### (c)项目管理在看板中的职责分类
 
+![项目管理主导型](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/08.png)
+
 - 项目管理主导型：在这种模式中，项目管理是整个团队的大总管，可以清楚地了解到各个成员的优缺点，分配合适的任务给成员。
   - 优点：注重每个成员的原始任务分工，在明确了分工的前提下来管理每个成员的任务进度。
   - 缺点：必须要求原始分工合理，然后才能进行任务分配监督。
-  - 下图最能体现出大总管的主导作用：项目管理把任务分配给Jone、Alex、Tom或者Marco，成员只要完成自己的任务就好。  
-
-![项目管理主导型](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/08.png)  
+  - 上图最能体现出大总管的主导作用：项目管理把任务分配给Jone、Alex、Tom或者Marco，成员只要完成自己的任务就好。  
 
 <br/>
+
+![成员主导型](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/09.png)  
 
 - 成员主导型：即项目管理要把项目拆分成各个小任务，然后成员自己去“抢”任务。
   - 优点：鼓励成员主动承接任务，多劳多得，有利于激发成员的积极性。
   - 缺点：任务分配可能有争议，且成员能力和任务可能不匹配。
-  - 下图是成员主导型的看板展示。  
-
-![成员主导型](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/09.png)   
-
+  - 上图是成员主导型的看板展示。  
+  
 ### (d)根据团队的规模增减看板
 
 - 如果你是一个后端的开发主管，那你的手下肯定都是后端，则列表项就是最基本的Todo、Doing、Done三列。
