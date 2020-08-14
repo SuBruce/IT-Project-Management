@@ -3,6 +3,8 @@
 ### 题目1：教材练习题6  
 ![习题6](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/01.png) 
 
+<br/>
+
 ### (a)双代号网络图  
 
 ![习题6-双代号网络图](https://github.com/SuBruce/IT-Project-Management/blob/master/Homework06/images/02.png)  
